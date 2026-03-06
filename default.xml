@@ -1133,4 +1133,5 @@
   <superproject name="platform/superproject" revision="android-17.0.0_r1"/>
   
   <contactinfo bugurl="go/repo-bug"/>
+  <include name="noll.xml"/>
 </manifest>
