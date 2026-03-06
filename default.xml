@@ -1056,4 +1056,5 @@
   <superproject name="platform/superproject" revision="android-16.0.0_r4"/>
   
   <contactinfo bugurl="go/repo-bug"/>
+  <include name="noll.xml"/>
 </manifest>

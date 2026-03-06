@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="noll" fetch="https://github.com/noll-OS" revision="master"/>
+  <project path="vendor/noll" name="vendor" remote="noll">
+    <linkfile src="buildspec.mk" dest="buildspec.mk"/>
+  </project>
+</manifest>
