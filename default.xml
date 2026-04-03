@@ -448,7 +448,7 @@
   <project path="external/ply" name="platform/external/ply" groups="pdk"/>
   <project path="external/pogreb" name="platform/external/pogreb" groups="pdk"/>
   <project path="external/private-join-and-compute" name="platform/external/private-join-and-compute" groups="pdk"/>
-  <project path="external/protobuf" name="platform/external/protobuf" groups="pdk,sysui-studio"/>
+  <project path="external/protobuf" name="platform_external_protobuf" groups="pdk,sysui-studio" remote="grapheneos" aosp-name="platform/external/protobuf"/>
   <project path="external/pthreadpool" name="platform/external/pthreadpool" groups="pdk"/>
   <project path="external/puffin" name="platform/external/puffin" groups="pdk"/>
   <project path="external/python/absl-py" name="platform/external/python/absl-py" groups="pdk"/>
